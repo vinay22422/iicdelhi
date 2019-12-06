@@ -1,4 +1,6 @@
+check screenshots:- 1.png, 2.png, 3.png, 4.png and 5.png
 
+running guide:-
 
 put iicapp folder in wamp/tomacat or any server's host folder
 ex:- c:/wamp64/www/iicapp
