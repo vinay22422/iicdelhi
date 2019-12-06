@@ -1,5 +1,6 @@
 
 
+
 put Siddesh folder in wamp server folder
 c:/wamp64/www/siddesh
 
